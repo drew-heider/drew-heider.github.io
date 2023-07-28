@@ -8,7 +8,7 @@ permalink: /network
 
   
 <div class="responsive-embed">
-  <iframe width="420" height="315" src="http://161.35.125.155/graph/Heider/#/" frameborder="0" allowfullscreen=""></iframe>
+  <iframe width="420" height="315" src="http://161.35.125.155/graph/Heider/#/index.html" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
 
