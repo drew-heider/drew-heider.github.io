@@ -1,5 +1,5 @@
 ---
-title: Centennial Struggle
+title: Centennial Struggles
 layout: homepage
 permalink: /
 pullquote:
