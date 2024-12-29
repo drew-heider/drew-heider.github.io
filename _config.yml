@@ -3,7 +3,7 @@
 #---------------------
 # THEME. Leave Lines 4-6 alone.
 #---------------------
-remote_theme: kalanicraig/community-archive-jekyll@0.2.0
+remote_theme: https://github.com/drew-heider/centennial-struggles/blob/main/centennial-struggles_stylesheet.css
 repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
 
 ##############################################
